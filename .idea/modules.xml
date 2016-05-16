@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/jpa-utils.iml" filepath="$PROJECT_DIR$/jpa-utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jpa-utils.iml" filepath="$PROJECT_DIR$/.idea/modules/jpa-utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jpa-utils_main.iml" filepath="$PROJECT_DIR$/.idea/modules/jpa-utils_main.iml" group="jpa-utils" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jpa-utils_test.iml" filepath="$PROJECT_DIR$/.idea/modules/jpa-utils_test.iml" group="jpa-utils" />
     </modules>
   </component>
 </project>
